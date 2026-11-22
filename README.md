@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**tanzumbushra-oss/tanzumbushra-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 🖤 Mubashwira Tanjum Bushra
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CSE Undergraduate | Research Enthusiast
+
+🎓 Manarat International University
+
+*Exploring Technology, Research & Innovation*
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 CSE Undergraduate at Manarat International University.
+- 🔬 Interested in Research and Innovation.
+- 🤖 Exploring Artificial Intelligence.
+- 💻 Learning Python and C++.
+- 🌱 Always curious to learn new technologies.
+
+## 🛠️ Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,github,vscode" />
+</p>
+
+## 🔬 Research Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Green AI
+- Computer Science Research
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/tanzumbushra-oss
+
+</div>
