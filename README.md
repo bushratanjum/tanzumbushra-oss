@@ -1,12 +1,7 @@
-
 <div align="center">
-
 # Mubashwira Tanjum Bushra
-
 ### CSE Undergraduate | Research Enthusiast
-
- Manarat International University
-
+Manarat International University
 *Exploring Technology, Research & Innovation*
 
 </div>
