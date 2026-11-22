@@ -1,7 +1,7 @@
 <div align="center">
-# Mubashwira Tanjum Bushra
-### CSE Undergraduate | Research Enthusiast
-Manarat International University
+Mubashwira Tanjum Bushra|
+CSE Undergraduate | Research Enthusiast|
+Manarat International University|
 *Exploring Technology, Research & Innovation*
 
 </div>
